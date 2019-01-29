@@ -1,4 +1,4 @@
-const { events } = require("brigadier")
+const { events } = require("@azure/brigadier")
 const is = require("is-thirteen");
 const circle = require("./local-deps/circle");
 
