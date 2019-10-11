@@ -1,5 +1,6 @@
 {
     "dependencies": {
-        "is-thirteen": "2.0.0"
+        "is-thirteen": "2.0.0",
+         "@brigadecore/brigade-utils": "0.3.0"
     }
 }
